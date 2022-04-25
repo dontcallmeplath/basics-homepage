@@ -3,7 +3,7 @@ const close = document.getElementById("close");
 const modal = document.getElementById("modal_container");
 
 open.addEventListener("click", function () {
-  prompt("EMAIL PLEASE:");
+  prompt("EMAIL PLEASE:  \n(this doesn't store anywhere lol)");
   modal.classList.add("show");
 });
 
