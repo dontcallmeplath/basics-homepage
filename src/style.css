@@ -43,6 +43,7 @@ a:hover {
 
 iframe {
   border-radius: 10px;
+  overflow: hidden;
 }
 
 button {
